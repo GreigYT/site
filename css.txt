@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+}
+
+h4 {
+    font-family: monospace;
+}
+
+header img {
+    width: 300px;
+    height: 200px;
+    opacity: 0.5;
+    border: double 3px;
+    border-radius: 10%;
+}
+
+header img:hover {
+    width: 500px;
+    height: 300px;
+    opacity: 1;
+    border: double 3px;
+    border-radius: 10%;
+}
+
+main img {
+    width: 300px;
+    height: 200px;
+    opacity: 0.5;
+    border: double 3px;
+    border-radius: 10%;
+}
+
+main img:hover{
+    width: 500px;
+    height: 300px;
+    opacity: 1;
+    border: double 3px;
+    border-radius: 10%;
+} 
+
+h1 {
+    border: double 5px;
+    border-radius: 5%;
+}
+
+h4 {
+    border-radius: 3%;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+footer img {
+    width: 300px;
+    height: 200px;
+    border: double 3px;
+    border-radius: 10%;
+}
